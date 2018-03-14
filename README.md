@@ -8,16 +8,21 @@ git 常用命令
 
 > git add   
   >> git add .   
-    >>>  git add xxx 
- <br>
+  >> git add xxx 
+
 git commit  
-<br>
+
 >> git commit -m "first apply"
 git push 
-<br>
+
  >> git push origin master   
  >> git push -u origin master     
  >> git push 
 
-
+    void main()       
+    {
+    
+    println();
+    
+    }
   
