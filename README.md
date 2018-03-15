@@ -14,4 +14,14 @@
 >ssh   
 
 
+## git status
+> git status
+
+> git status -s
+
+> git status --short
+
+
+
+
                  
