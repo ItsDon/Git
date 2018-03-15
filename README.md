@@ -36,9 +36,18 @@
 > git diff --staged (同上)
 
 
+## git add + git commit
+>  git add     +     git commit -m "xx"     ==       git commit -a  -m "xxx"
 
->  git add     +     git commit       ==       git commit -a 
+## git rm --cached  删除对当前文件的跟踪
 
+## git mv file_from file_to  将文件重命名
+>  该命令相当于下面3条命令
 
+> mv file_from file_to
+
+> git rm file_from
+
+> git add file_to
 
                  
