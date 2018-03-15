@@ -7,10 +7,9 @@
 >> git clone https://github.com/ItsDon/Git.git  MyGit (在当前目录下创建MyGit目录)   
                    
 ## git支持的数据传输协议  
-> https://  
-git://   
+> https://   https://github.com/ItsDon/Git.git
+git://   git@github.com:ItsDon/Git.git
 ssh   
 
-[TOC]
 
                  
