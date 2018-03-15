@@ -22,8 +22,18 @@
 > git status --short 
 
 ## .gitignore文件 
->   这是多种语言的.gitignore模板  https://github.com/github/gitignore                                                                  
+>   这是多种语言的.gitignore模板  https://github.com/github/gitignore  
+                                                                
+                                                                
+## git diff   
+> git diff  (比较的是工作目录中的文件和暂存区快照之间的差异)
 
+> git diff --cached (查看的是已暂存的将要添加到下次提交里的内容)
+
+> git diff --staged (同上)
+
+
+![avatar](https://cdn.liaoxuefeng.com/cdn/files/attachments/001384907702917346729e9afbf4127b6dfbae9207af016000/0)
 
 
 
