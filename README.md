@@ -8,8 +8,10 @@
                    
 ## git支持的数据传输协议  
 > https://   https://github.com/ItsDon/Git.git
-git://   git@github.com:ItsDon/Git.git
-ssh   
+
+>git://   git@github.com:ItsDon/Git.git
+
+>ssh   
 
 
                  
