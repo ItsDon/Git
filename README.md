@@ -21,6 +21,8 @@
 
 > git status --short
 
+![avatar](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1521095889163&di=e86bae008264d410043be688d9249e41&imgtype=0&src=http%3A%2F%2Fwww.treelib.com%2FUploads%2FHome%2FUcenter%2Fsave_editor_image%2F2014-12-20%2F54945a1bde216.png)
+
 
 
 
