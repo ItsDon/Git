@@ -1,6 +1,9 @@
 # 工作中常用git命令汇总
 
 
+## git原理图
+![avatar](https://cdn.liaoxuefeng.com/cdn/files/attachments/001384907702917346729e9afbf4127b6dfbae9207af016000/0)
+
 ## git clone
 >> git clone https://github.com/ItsDon/Git.git （在当前目录下创建Git目录）    
 >> git clone  https://github.com/ItsDon/Git.git . (在当前目录下不创建新的目录)    
@@ -33,8 +36,8 @@
 > git diff --staged (同上)
 
 
-![avatar](https://cdn.liaoxuefeng.com/cdn/files/attachments/001384907702917346729e9afbf4127b6dfbae9207af016000/0)
 
+>  git add     +     git commit       ==       git commit -a 
 
 
 
