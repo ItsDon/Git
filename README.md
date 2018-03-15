@@ -49,5 +49,8 @@
 > git rm file_from
 
 > git add file_to
+             
+## git rm
+> git rm xx (同时从暂存区和工作目录删除)
 
-                 
+> git rm --cached xx (只是从暂存区删除，工作目录仍然存在，即相当于取消跟踪)   
