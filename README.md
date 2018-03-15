@@ -54,3 +54,7 @@
 > git rm xx (同时从暂存区和工作目录删除)
 
 > git rm --cached xx (只是从暂存区删除，工作目录仍然存在，即相当于取消跟踪)   
+
+
+## 从远端拉取代码：git fetch  &  git pull
+> 区别是git pull 拉取下来后会自动merge，git fetch 并没有
